@@ -1,4 +1,5 @@
 # Controle de Estoque para Loja de Roupas
+## Autora: Rayka Alves
 
 Sistema de cadastro de produtos desenvolvido em Java Swing com interface gráfica, permitindo realizar operações completas de CRUD (criar, ler, atualizar e excluir). Além disso, o sistema também conta com busca de produtos, upload de imagens e geração de relatórios em PDF.
 
