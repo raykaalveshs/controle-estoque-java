@@ -8,7 +8,7 @@ Projeto desenvolvido por mim como uma atividade de desafio, durante o curso Téc
 
 ## Interface do Sistema
 
-![Tela do sistema](./img/print.png)
+![Tela do sistema](./src/img/print.png)
 
 ---
 
